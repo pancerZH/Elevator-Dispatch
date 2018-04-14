@@ -1,0 +1,7 @@
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\bin\Debug\elevator_demo.exe.config
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\bin\Debug\elevator_demo.exe
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\bin\Debug\elevator_demo.pdb
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\obj\Debug\elevator_demo.csproj.CoreCompileInputs.cache
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\obj\Debug\elevator_demo.exe
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\obj\Debug\elevator_demo.pdb
+C:\Users\94274\source\repos\elevator_demo\elevator_demo\obj\Debug\elevator_demo.csprojResolveAssemblyReference.cache
