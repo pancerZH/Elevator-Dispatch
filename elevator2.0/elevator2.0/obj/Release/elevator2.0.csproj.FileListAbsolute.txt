@@ -1,0 +1,9 @@
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\bin\Release\elevator2.0.exe.config
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\bin\Release\elevator2.0.exe
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\bin\Release\elevator2.0.pdb
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2._0.FormMain.resources
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2._0.Properties.Resources.resources
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2.0.csproj.GenerateResource.Cache
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2.0.csproj.CoreCompileInputs.cache
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2.0.exe
+C:\Users\94274\source\repos\elevator2.0\elevator2.0\obj\Release\elevator2.0.pdb
